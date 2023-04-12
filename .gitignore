@@ -1,0 +1,4 @@
+# ce fichier permet d'éviter de sauvegarder des fichiers/rep sur github
+
+# environnement virtuel
+.venv
