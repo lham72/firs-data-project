@@ -2,3 +2,4 @@
 
 # environnement virtuel
 .venv
+docker-compose.yml

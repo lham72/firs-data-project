@@ -1,0 +1,11 @@
+Mettre une licence sur le projet
+Mettre en place un Readme qui explique le projet
+et l'installation de l'application.
+py -m pip install --user virtualenv
+py -m venv .venv
+.\.venv\Scripts\Activate
+.\.venv\Scripts\Activate.ps1
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
+"Ici init de git + push"
+pip install pandas pymysql
+pip freeze > requirements.txt
